@@ -1,0 +1,36 @@
+body {
+  margin: 5px 5px 0px 5px;
+}
+nav {
+  background-color: #d13670;
+  border-radius: 5px;
+}
+#navText {
+  
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  padding-right:100px;
+  gap: 20px;
+  padding: 2%;
+  font-size:20px;
+}
+a {
+  color: white;
+}
+#headImg {
+  margin-top:1%;
+}
+#HImg {
+  width:100%;
+  min-height: 100px;
+  max-height:600px;
+  border-radius:5px;
+}
+#text {
+  margin-top:1%;
+  background-color: #b3eaff;
+  padding: 2%;
+  border-radius: 5px;
+  color:black;
+}
